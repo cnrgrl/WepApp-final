@@ -1,0 +1,5 @@
+<div class="col-lg-6">
+	<div class="map-responsive">
+		<iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=bismarkstr%202+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" allowfullscreen></iframe>
+	</div>
+</div>
